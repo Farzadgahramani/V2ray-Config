@@ -73,7 +73,8 @@ ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Spli
 On Windows, we recommend using [Nekoray](https://github.com/MatsuriDayo/nekoray) or [V2rayN](https://github.com/2dust/v2rayN) client. To import a configuration file in `nekoray`, simply open the app then on the Program icon, select "Add profile from clipboard", and paste the configuration link. To import a configuration file in `V2rayN`, simply right-click on the V2rayN icon in the system tray, select "Import from clipboard", and paste the configuration link. For the official client, click on the "V" icon in the system tray and select "Import Config".
 
 ### 🤖 Android
-On Android, we recommend using [V2rayNG](https://github.com/2dust/v2rayNG) or [HiddifyNG](https://github.com/hiddify/HiddifyNG) or [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.
+On Android, we recommend using [V2rayNG](https://github.com/2dust/ssh
+edv2rayNG) or [HiddifyNG](https://github.com/hiddify/HiddifyNG) or [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid). To import a configuration file, open the app and click on the "+" icon in the bottom right corner. Then, select "Import Config from Clipboard" and paste the configuration link.
 
 ### 🍎 Mac and 📱 iOS
 On you Apple Device, we recommend using the [Streisand](https://apps.apple.com/us/app/streisand/id6450534064). To import the subscription link, simply open the app then at the yop of the page click "+" and choose "import from clipboard" then test configs with holding "subscription" part and choose "Latency" to check all configs. At the end, choose first config & connect.
